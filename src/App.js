@@ -3,7 +3,7 @@ import "./App.css";
 import { useState } from "react";
 import { ChakraProvider, Box, Button } from "@chakra-ui/react";
 import { Canvas } from "@react-three/fiber";
-import Earth3 from "./components/Earth3";
+import Earth3 from "./lib/components/Earth3";
 //#endregion
 
 function App() {
